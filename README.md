@@ -49,8 +49,7 @@ npm start
 |--------|------------------|--------------------------|
 | POST   | `/api/auth/register` | Register a new user       |
 | POST   | `/api/auth/login`    | Authenticate a user       |
-| GET    | `/api/user/profile`  | Get user profile details  |
-| POST   | `/api/auth/refresh`  | Refresh JWT token        |
+| post    | `/api/user/logout`  | Logout the user  |
 
 ## 🛠 Technologies Used
 
